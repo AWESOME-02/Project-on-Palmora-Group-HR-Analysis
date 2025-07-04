@@ -25,7 +25,7 @@ As an HR Analytics expert, I was tasked with transforming raw HR data into meani
 [Palmoria Group employee-data_083200.csv](https://github.com/user-attachments/files/21048435/Palmoria.Group.employee-data_083200.csv) /Dataset
 
 [Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21048438/Palmoria.Group.Bonus.Rules.xlsx) /Dataset
-## Dasdboard
+## Dashboard
 ![Image 3](https://github.com/user-attachments/assets/55886281-f92c-4c6c-9497-2d8bb04d0aaf)
 
 ## Tool Used
