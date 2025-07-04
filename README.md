@@ -20,10 +20,14 @@ As an HR Analytics expert, I was tasked with transforming raw HR data into meani
 - *Bonus Planning*: Recommendations on bonus allocation based on current salary levels and fairness.
 
 ## Folder Structure
+[Transformed Palmora Group Employee Date.xlsx](https://github.com/user-attachments/files/21048792/Transformed.Palmora.Group.Employee.Date.xlsx) /Analyzed dataset
+
 [Palmoria Group employee-data_083200.csv](https://github.com/user-attachments/files/21048435/Palmoria.Group.employee-data_083200.csv) /Dataset
 
 [Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21048438/Palmoria.Group.Bonus.Rules.xlsx) /Dataset
 ## Dasdboard
+![Image 3](https://github.com/user-attachments/assets/55886281-f92c-4c6c-9497-2d8bb04d0aaf)
+
 ## Tool Used
 *Microsoft Power BI* – for interactive dashboards and visual insights
 
